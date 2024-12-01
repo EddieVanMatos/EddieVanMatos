@@ -1,6 +1,25 @@
 Sou um desenvolvedor apaixonado por tecnologia, sempre em busca de soluções criativas e eficientes. Minha jornada na programação é marcada por projetos diversos, que abrangem desde o desenvolvimento de interfaces modernas até a construção de backends robustos. Aqui, você encontrará um pouco de tudo que tenho aprendido, explorado e construído ao longo do tempo.
 
+Análise e Desenvolvimento de sistemas | FATEC • Dev Front End • HTML • CSS • Javascript • React Js • React Native • Android Studio • Back End • Java • SQL Server • My SQL • Springboot • Git • API REST
+
 Áreas de Conhecimento:
+FATEC | Análise e Desenv. de Sistemas   
+
+FIEB Tech de Barueri - Tecnologia da Informação com foco em Programação abrangendo Front End, Back End, Banco de Dados.
+
+ Outras áreas complementares
+ Design Gráfico (Adobe) e Corel Draw. 
+
+Possuo habilidades em:
+
+- Front End (HTML, CSS, JavaScript, React Js , React Native);
+- API | REST;
+- Framework e Versionamento de Sistemas (Springboot, STS, Github, Gitbash);
+- Desenvolvimento de Softwares e Aplicações Mobile;
+- Back End (Java, Raciocínio Lógico e Algoritmos);
+- Banco de Dados: Criação, Manipulação e Gerenciamento, SQL Server, MySQL, Modelagem de Dados, MER, Normalização;
+- Noções de Empreendedorismo e Modelos de Negócios;
+- Fundamentos Técnicos sobre Software, Hardware e tecnologias embarcadas.
 
 Frontend Development:
 Domínio em HTML, CSS e JavaScript, com foco em criar interfaces intuitivas e responsivas. Experiência no desenvolvimento de projetos React, incluindo organização de componentes reutilizáveis, roteamento com react-router-dom, estilização com styled-components e integração com APIs.
