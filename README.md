@@ -20,6 +20,7 @@ Possuo habilidades em:
 - Banco de Dados: Criação, Manipulação e Gerenciamento, SQL Server, MySQL, Modelagem de Dados, MER, Normalização;
 - Noções de Empreendedorismo e Modelos de Negócios;
 - Fundamentos Técnicos sobre Software, Hardware e tecnologias embarcadas.
+- IDIOMAS: Inglês e Português.
 
 Frontend Development:
 Domínio em HTML, CSS e JavaScript, com foco em criar interfaces intuitivas e responsivas. Experiência no desenvolvimento de projetos React, incluindo organização de componentes reutilizáveis, roteamento com react-router-dom, estilização com styled-components e integração com APIs.
